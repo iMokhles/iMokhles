@@ -1,4 +1,8 @@
-### Hi there 👋
+![stats](https://github-readme-stats.vercel.app/api?username=iMokhles&hide=contribs&show_icons=true&theme=dark)
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iMokhles&layout=compact&theme=dark)
+
+![](https://komarev.com/ghpvc/?username=iMokhles)
 
 <!--
 **iMokhles/iMokhles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
